@@ -21,9 +21,9 @@ Added William Lams Thumbprint code
 
 ## Authors
 
-* **William Lam** - *Initial work* - [lam2](https://github.com/lamw/vghetto-nsxt-automated-lab-deployment) & [virtuallyghetto](https://www.virtuallyghetto.com/2017/10/vghetto-automated-nsx-t-2-0-lab-deployment.html)
+* **William Lam** - *Initial work* - [lamw](https://github.com/lamw/vghetto-nsxt-automated-lab-deployment) & [virtuallyghetto](https://www.virtuallyghetto.com/2017/10/vghetto-automated-nsx-t-2-0-lab-deployment.html)
 
-* **Dana Gertsch** - Update to 6.7U1, PS 6.1, PowerCli 11.2 [knotacoder] (http://www.knotacoder)
+* **Dana Gertsch** - Update to 6.7U1, PS 6.1, PowerCli 11.2 [@knotacoder] (http://www.knotacoder)
 
 ## Acknowledgments
 
